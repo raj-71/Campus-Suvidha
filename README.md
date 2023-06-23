@@ -38,10 +38,10 @@ To get started with Campus Suvidha, simply visit our website www.campussuvidha.c
 
 ## Feedback and Support
 
-We value your feedback and suggestions to improve Campus Suvidha further. If you encounter any issues or have any ideas to enhance our platform, please reach out to our support team at support@campussuvidha.com. We are committed to continuously refining and expanding our services to better serve the needs of our users.
+We value your feedback and suggestions to improve Campus Suvidha further. If you encounter any issues or have any ideas to enhance our platform, please reach out to our support team at suvidhaiitk@gmail.com. We are committed to continuously refining and expanding our services to better serve the needs of our users.
 
 ## Contributing
 
-We are excited about building a vibrant community around Campus Suvidha and welcome contributions from developers, designers, and other enthusiasts. If you are interested in contributing to our project, please reach out to us at contributions@campussuvidha.com to discuss potential collaboration opportunities.
+We are excited about building a vibrant community around Campus Suvidha and welcome contributions from developers, designers, and other enthusiasts. If you are interested in contributing to our project, please reach out to us at suvidhaiitk@gmail.com to discuss potential collaboration opportunities.
 
 Thank you for choosing Campus Suvidha! We hope our platform enriches your college experience and simplifies various aspects of campus life.
