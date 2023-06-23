@@ -2,7 +2,7 @@
 
 ![download (1)](https://github.com/raj-71/Campus-Suvidha/assets/40698372/c4662cae-637e-4edf-9bc0-d397bd8487ce)
 
-Campus Suvidha is an all-in-one platform made just for college campuses. Its goal is to improve the overall experience of students, faculty, and staff. Campus Suvidha aims to make life on college campuses easier and more connected by offering a variety of features that have been designed to meet the needs of campus life.
+[Campus Suvidha](https://www.campussuvidha.com) is an all-in-one platform made just for college campuses. Its goal is to improve the overall experience of students, faculty, and staff. Campus Suvidha aims to make life on college campuses easier and more connected by offering a variety of features that have been designed to meet the needs of campus life.
 
 ## Key features
 
